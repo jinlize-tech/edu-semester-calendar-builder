@@ -1,0 +1,24 @@
+{
+  "number": 54,
+  "product_id": "JLZ-EDU-SK-044",
+  "chinese_name": "学期教学日历",
+  "english_name": "Semester Calendar Builder",
+  "repository_name": "edu-semester-calendar-builder",
+  "product_type": "Skill",
+  "category": "04 教务运营中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-semester-calendar-builder-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "学期起止、节假日、课程量、考试节点、招生活动和校区特殊安排",
+  "main_output": "学期日历、周次视图、关键节点、冲突提示和责任清单",
+  "package_entries": [
+    "edu-semester-calendar-builder/SKILL.md",
+    "edu-semester-calendar-builder/references/DOMAIN_GUIDE.md",
+    "edu-semester-calendar-builder/references/EXAMPLES.md",
+    "edu-semester-calendar-builder/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
